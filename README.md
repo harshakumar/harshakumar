@@ -1,4 +1,4 @@
-Hello! I'm Harsha Kumar, a passionate and dedicated full-stack developer with 14 years of experience in building dynamic, responsive, and scalable web applications. I specialize in both front-end and back-end development, ensuring seamless integration and robust performance across the entire stack.
+Hello! I'm **Harsha Kumar**, a passionate and dedicated full-stack developer with 14 years of experience in building dynamic, responsive, and scalable web applications. I specialize in both front-end and back-end development, ensuring seamless integration and robust performance across the entire stack.
 
 #### 🚀 Front-End Skills:  
 Languages: JavaScript, TypeScript, HTML5, CSS3  
